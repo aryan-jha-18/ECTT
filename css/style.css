@@ -816,7 +816,7 @@ nav {
 
 .service {
   height: 100%;
-  background-image: url("/img/service.2.jpg");
+  background-image: url("../img/service.2.jpg");
   background-size: cover;
   background-position: center; }
   @media (max-width: 37.5em) {
