@@ -1,34 +1,34 @@
 @keyframes dmseries {
   0% {
-    background-image: url(/img/dm1.jpg); }
+    background-image: url(../img/dm1.jpg); }
   50% {
-    background-image: url(/img/dm2.jpg); }
+    background-image: url(../img/dm2.jpg); }
   100% {
-    background-image: url(/img/dm1.jpg); } }
+    background-image: url(../img/dm1.jpg); } }
 
 @keyframes krseries {
   0% {
-    background-image: url(/img//kr1.jpg); }
+    background-image: url(../img//kr1.jpg); }
   50% {
-    background-image: url(/img//kr2.jpg); }
+    background-image: url(../img//kr2.jpg); }
   100% {
-    background-image: url(/img/kr1.jpg); } }
+    background-image: url(../img/kr1.jpg); } }
 
 @keyframes rmseries {
   0% {
-    background-image: url(/img/rm1.jpg); }
+    background-image: url(../img/rm1.jpg); }
   50% {
-    background-image: url(/img/rm2.jpg); }
+    background-image: url(../img/rm2.jpg); }
   100% {
-    background-image: url(/img/rm1.jpg); } }
+    background-image: url(../img/rm1.jpg); } }
 
 @keyframes aseries {
   0% {
-    background-image: url(/img/a1.jpg); }
+    background-image: url(../img/a1.jpg); }
   50% {
-    background-image: url(/img/a2.jpg); }
+    background-image: url(../img/a2.jpg); }
   100% {
-    background-image: url(/img/a1.jpg); } }
+    background-image: url(../img/a1.jpg); } }
 
 @keyframes textAnimation {
   100% {
